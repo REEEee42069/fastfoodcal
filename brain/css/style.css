@@ -156,12 +156,6 @@ h1:hover {
 		27px 54px 1px #e2e0df, 28px 56px 1px #e4e3e2;
 }
 /* Style page content */
-.main {
-  margin-left: 160px; /* Same as the width of the sidebar */
-  padding: 0px 10px;
-  font-size: 22px;
-  text-align: center;
-}
 .social-panel-container {
     position: fixed;
     right: 0;
